@@ -1,3 +1,4 @@
+## (备份 [zanui-weapp](https://github.com/armyja/mpvue-zanui)留存)
 # mpvue-zanui
 
 > 使用 mpvue 重写 [zanui-weapp](https://github.com/youzan/zanui-weapp/)，实现了其中所有组件。
